@@ -1,0 +1,6 @@
+  #carte {
+    display: grid;
+    grid-template-columns: repeat(3, auto); /* Trois colonnes */
+    gap: 0px; /* Espace de 10px entre les images */
+    width: calc(256px * 3);
+    }

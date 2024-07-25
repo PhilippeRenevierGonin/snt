@@ -10,7 +10,7 @@ Il s'agit d'un dépôt avec des cours et des activités pour le cours de SNT en 
 - Réseaux sociaux
 - La photographie numérique 
 
-- Un outil est utilisé pour écrire et exécuter du python, il s'agit de [Thonni](https://thonny.org/). 
+Un outil est utilisé pour écrire et exécuter du python, il s'agit de [Thonni](https://thonny.org/). 
 
 
 ## Introduction à Python

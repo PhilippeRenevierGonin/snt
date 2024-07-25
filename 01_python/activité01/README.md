@@ -6,7 +6,7 @@ Pour cette première activité, récupérez (téléchargement ou en copier colle
 Pour cela : ouvrez Thonny et dans ce logiciel, ouvrez le fichier téléchargé ou copier le code dans un nouveau fichier.
 Quand vous modifiez le fichier, pensez à sauvegarder (CTRL+S ou le bouton ![save.png](../../images/save.png))
 
-Exécutez ce script en utilisant "Déboguer le script courant", c'est le bouton avec l'image ![deboguer.png](../../images/deboguer.png). Puis utilisez "entrez dans l'étape en cours (F7)" ![F7.png](../../images/F7.png), ceci permet de voir le dérouler du script.
+Exécutez ce script en utilisant "Déboguer le script courant", c'est le bouton avec l'image ![deboguer.png](../../images/deboguer.png). Puis utilisez "entrez dans l'étape en cours (F7)" ![F7.png](../../images/F7.png), ceci permet de voir le dérouler du script. Si vous avez une erreur car il manque un package, la solution est en bas de cette page. 
 
 Répondons collectivement aux questions suivantes, en prenant note des réponses. 
 
@@ -71,3 +71,11 @@ Maintenant sur des éléments liés aux thèmes que nous verrons dans SNT :
  - format de données "json"
  - cartographie 
 
+## Annexe : pip install
+
+Si vous avez une erreur d'installation de package, voici ce qu'il faut faire :
+- Dans le menu « Outils », sélectionnez « Ouvrir la console du système... ». 
+- Saisissez pip install <nom du paquet> (par ex. pip install requests)
+- Fermez le terminal (optionnel)
+- Retournez à Thonny.
+- Réinitialisez l'interpréteur en sélectionnant « Arrêter/Redémarrer » (le bouton "panneau stop")

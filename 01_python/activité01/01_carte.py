@@ -31,7 +31,7 @@ if __name__ == '__main__':
         if donnees:
             lat = donnees[0]['lat']
             lon = donnees[0]['lon']
-            # TODO : ici, affichez avec print lat et lon
+            # TODO : ici, affichez avec print lat (en premier) et lon (en second)
         else:
         # s'il n'y a pas de données
             print("Aucune donnée trouvée.")

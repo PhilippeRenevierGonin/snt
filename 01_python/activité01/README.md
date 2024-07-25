@@ -52,8 +52,8 @@ Remettez le code avec les valeurs initiales
 Allez sur le site [https://jsonviewer.io](https://jsonviewer.io/) pour y coller la 2e ligne qui est affichée suite à l'exécution du script. Ensuite, visualisez et explorez les données.  
 
 ### 1.7 complétons un peu le code 
-Faites en sorte d'afficher les valeurs de lat (pour latitude) et de lon (pour longitude)
-Allez sur google.com/maps et coller ces deux valeurs. 
+Faites en sorte d'afficher les valeurs (dans cet ordre) de lat (pour latitude) et de lon (pour longitude). Pour y arriver, utilisez la fonction "print", comme lorsque 
+Allez sur google.com/maps et coller ces deux valeurs (la latitude puis la longitude). 
 
 ## 2. Bilan
 

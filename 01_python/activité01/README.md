@@ -45,11 +45,13 @@ Modifiez le script pour couvrir tous les cas :
  - exécutez le script avec les valeurs initiales
  - modifiez le nom de la ville par une ville inexistante (pas de réponse) : "Aucune donnée trouvée."
  - changez url  par ```url = "https://nominatim.openstreetmap.org/unepage"```
+
 Remettez le code avec les valeurs initiales
 
 ### 1.6 Qu'est-ce que "donnees" dans ce code ? 
 
 Allez sur le site [https://jsonviewer.io](https://jsonviewer.io/) pour y coller la 2e ligne qui est affichée suite à l'exécution du script. Ensuite, visualisez et explorez les données.  
+Ce qu'il faut copier commence par "données reçues : [{"place_id":107019545,"licence":"Data" (il faudra enlever "données reçues :" sur le site jsonvierwer). 
 
 ### 1.7 complétons un peu le code 
 Faites en sorte d'afficher les valeurs (dans cet ordre) de lat (pour latitude) et de lon (pour longitude). Pour y arriver, utilisez la fonction "print", comme lorsque 

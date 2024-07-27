@@ -56,7 +56,7 @@ if __name__ == '__main__':
             pageweb.write("<head>\n\t<meta charset=\"UTF-8\">\n\t<title>carte 1x1</title>\n")
             # todo : il faudra faire l'inclusion d'un style CSS
             pageweb.write("</head>\n")
-            pageweb.write("<body style=\"line-height: 1;\">\n<div id=\"carte\">\n")
+            pageweb.write("<body>\n<div id=\"carte\">\n")
             # todo : ici, il faudra ajouter d'autres images
             pageweb.write(f"\t<img src=\"https://tile.openstreetmap.org/{zoom}/{x}/{y}.png\">\n")
             pageweb.write("</div>\n</body>\n</html>")

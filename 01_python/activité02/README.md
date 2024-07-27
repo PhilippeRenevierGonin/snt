@@ -13,8 +13,11 @@ Répondons collectivement aux questions suivantes, en prenant note des réponses
 
 ## 2. Obervons quelques différences entre la 1re activité et la 2e
 
-### 2.1 Retrouvez les 2 conversions de types semblables à ce que nous venons de voir.
-### 2.2 Jettez un oeil sur la conversion de la latitude et de la longitude en image. Retrouvez les informations dans la documentation indiquée en commentaire
+### 2.1 Retrouvez les 2 conversions de types qui transforment une chainte de caractères en un "réel", semblables à ce que nous venons de voir.
+### 2.2 Jetez un oeil sur la documentation du service en ligne qui permet la conversion de la latitude et de la longitude en image. 
+
+L'adresse web de cette documentation est [https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames](https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames)
+
 ### 2.3 Comment s'appelle le fichier qui est crée (ou écrasé) par le script ? Où est-il ? 
 ### 2.4 À quoi servent les \n et \t ?
 ### 2.5 Observez à quoi ressemble du html, nous y reviendrons dans le cadre d'un autre thème

@@ -27,4 +27,4 @@ en prenant le point de vue de l'ordinateur, parmi :
 - si (condition) alors ... sinon ... 
 
 Pensez à indenter comme en python, cela vous aidera à visualiser le "programme". Le résultat ne sera pas "optimal", l'objectif sera d'avoir quelquechose qui serait fonctionnel (qui fonctionne) si nous le codions.
-La façon dont l'ordinateur choisit le nombre d'allumettes à prendre n'est pas à déterminer maintenant. 
+La façon dont l'ordinateur choisit le nombre d'allumettes à prendre n'est pas à déterminer maintenant, vous pouvez par exemple fixer ce nombre à 1. 

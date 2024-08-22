@@ -5,7 +5,7 @@ import requests
 # point d'entrée du script
 if __name__ == '__main__':
     #définitaiton de variables
-    rue = "32 Barthelemy De Laffemas"   # todo :
+    rue = "37-39 Barthelemy De Laffemas"   # todo :
     codepostal = "26000"
     ville = "Valence"
     url = "https://nominatim.openstreetmap.org/search?q=" + rue + " " + codepostal + " " + ville + "&format=json" + "&addressdetails=1&polygon_svg=1"

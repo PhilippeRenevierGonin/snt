@@ -54,7 +54,7 @@ Allez sur le site [https://jsonviewer.io](https://jsonviewer.io/) pour y coller 
 Ce qu'il faut copier commence par "données reçues : [{"place_id":107019545,"licence":"Data" (il faudra enlever "données reçues :" sur le site jsonvierwer). 
 
 ### 1.7 complétons un peu le code 
-Faites en sorte d'afficher les valeurs (dans cet ordre) de lat (pour latitude) et de lon (pour longitude). Pour y arriver, utilisez la fonction "print", comme lorsque 
+Faites en sorte d'afficher les valeurs (dans cet ordre) de lat (pour latitude) et de lon (pour longitude). Pour y arriver, utilisez la fonction "print", comme ceci : "print(lat, lon)".  
 Allez sur google.com/maps et coller ces deux valeurs (la latitude puis la longitude). 
 
 ## 2. Bilan
@@ -63,7 +63,7 @@ Notons les notions, et assicions les éléments vus correspondant à ces notions
  - variables
  - concaténation de chaines de caractères
  - module
- - insctuction conditionnelle
+ - instruction conditionnelle
 
 Maintenant sur des éléments liés aux thèmes que nous verrons dans SNT : 
  - adresse d'une page web (url)

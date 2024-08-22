@@ -57,7 +57,7 @@ Il s'agit ici que de constater, nous réglerons le problème plus tard.
 ## S'assurer que la personne tape bien "1", "2" ou "3"
 
 La fonction input() permet d'obtenir une chaine de caractères tapée par l'utilisateur·rice. Cette chaine peut être un "mot" ou un nombre ou "n'importe quoi", y compris une chaine vide. 
-La fonction int() ne peut convertir que les chaines qui sont littéralements des nombres entiers. Dans notre cas, nous ne voulons que 3 cas particuliers : "1", "2", "3".
+La fonction int() ne peut convertir que les chaines qui sont littéralement des nombres entiers. Dans notre cas, nous ne voulons que 3 cas particuliers : "1", "2", "3".
 Il nous est donc possible de tester la chaine tapée avant de la convertir. Si elle correspond bien à "1", "2" ou "3", alors on peut convertir, sinon que faire ? 
 
 ### Quelles possibilités envisagez-vous ?

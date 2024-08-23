@@ -27,6 +27,11 @@ Le déroulement prévu est :
    - la 3e partie de la séance sera consacrée à la fin de l'activité et un QCM "court"
  - Pour la troisième séance
    - [une 3e activité pour concevoir un programme](01_python/activité03/README.md)
-   - la [présentation de la boucle while](01_python/cours/03_boucle%20while.pdf) puis une [activité de programmation](01_python/activité04/README.md)
-   - la 3e partie de la séance sera consacrée à la fin de l'activité 4 
+   - la [présentation de la boucle while](01_python/cours/03_boucle%20while.pdf) puis une [activité 4 de programmation](01_python/activité04/README.md)
+   - la 3e partie de la séance sera consacrée à la fin de l'activité 4 et à la correction du QCM "court" 
+ - Pour la quatrième séance
+   - un cours présente [les instructions conditionnelles ("if") avec 3 ou plus alternatives et la notion de fonction](01_python/cours/04_elif_fonction.pdf)
+     - ce qui permet de présenter [une fiche qui résume ce qui a été abordé en python](01_python/cours/Memo%20Python%20V1.pdf)
+   - [l'activité 5 de programmation permet d'application la notion de fonction](01_python/activité05/README.md)
+   - la 3e partie de la séance sera consacré à un QCM "long"
 

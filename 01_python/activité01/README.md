@@ -59,7 +59,7 @@ Allez sur google.com/maps et coller ces deux valeurs (la latitude puis la longit
 
 ## 2. Bilan
 
-Notons les notions, et assicions les éléments vus correspondant à ces notions, tout d'abord sur les éléments de python : 
+Notons les notions, et associons les éléments vus correspondant à ces notions, tout d'abord sur les éléments de python : 
  - variables
  - concaténation de chaines de caractères
  - module

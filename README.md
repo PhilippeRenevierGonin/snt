@@ -37,6 +37,6 @@ Le déroulement prévu est :
    - un cours présente [les instructions conditionnelles ("if") avec 3 ou plus alternatives et la notion de fonction](01_python/cours/04_elif_fonction.pdf)
      - ce qui permet de présenter [une fiche qui résume ce qui a été abordé en python](01_python/cours/Memo%20Python%20V1.pdf)
    - [l'activité 5 de programmation permet d'application la notion de fonction](01_python/activité05/README.md)
-   - la 3e partie de la séance sera consacré à un QCM "long"
+   - la 3e partie de la séance sera consacré à un contrôle écrit avec 2 exercices. 
    - [bilan de la 4e séance](01_python/bilan/bilan04.md)
 

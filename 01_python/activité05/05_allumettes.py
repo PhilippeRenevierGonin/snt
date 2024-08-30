@@ -21,7 +21,7 @@ if __name__ == '__main__':
         nbAllumettes = nbAllumettes - coupJoueur
         print(f"Après votre tour, il reste {nbAllumettes} allumettes")
         if nbAllumettes > 0:
-            coupOrdi = ordi_fort(nbAllumettes)
+            coupOrdi = 1
             print(f"L'ordinateur a choisi de prendre {coupOrdi} allumettes")
             nbAllumettes = nbAllumettes - coupOrdi
             print(f"Après le tour de l'ordinateur, il reste {nbAllumettes} allumettes")

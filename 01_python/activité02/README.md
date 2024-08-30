@@ -1,7 +1,7 @@
 # SNT, Activité 02 : compléter la génération d'une page web
 
 ## 1. Code initial
-Pour cette activité, récupérez (téléchargement ou en copier coller) : [le code python initial (fichier 02_carte.py)](02_carte.py) 
+Pour cette activité, récupérez (téléchargement ou en copier-coller) : [le code python initial (fichier 02_carte.py)](02_carte.py) 
 
 Pour cela : ouvrez Thonny et dans ce logiciel, ouvrez le fichier téléchargé ou copier le code dans un nouveau fichier.
 Quand vous modifiez le fichier, pensez à sauvegarder (CTRL+S ou le bouton ![save.png](../../images/save.png))
@@ -45,7 +45,7 @@ Relancez le programme et ouvrez la page générée. Que constatez-vous ?
 ```html
 <link rel="stylesheet" href="style-carte.css">
 ```
-Pensez bien aux \n et à placer le fichier [style-carte.css](style-carte.css) à côté de votre fichier python.
+Pensez bien aux \" si nécessaire (et au \n pour rendre le fichier html lisible) et à placer le fichier [style-carte.css](style-carte.css) à côté de votre fichier python.
 Relancez le programme et ouvrez la page générée. Que constatez-vous ?
 
 

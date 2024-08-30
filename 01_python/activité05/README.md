@@ -35,7 +35,7 @@ Maintenant, nous voudrions que l'affichage du nombre d'allumettes changent en fo
  - {nb} allumettes si nb >= 2, nb étant écrit en "chiffre"
  - "une seule allumette" si nb = 1 ("une" est écrit en toutes lettres)
  - zéro allumette si nb = 0 ("zéro" est écrit en toutes lettres)
- - 
+
 A-t-on besoin d'utiliser "elif" dans ce cas ?
 
 À combien d'endroit avez-vous modifié le code ? 

@@ -1,4 +1,4 @@
-#bilan de la 3e séance
+#bilan de la 4e séance
 
 Nous avons :
  - conçu un algorithme en déterminant ce que l'ordinateur devait faire

@@ -1,4 +1,4 @@
-#bilan de la 2e séance
+#bilan de la 3e séance
 
 Nous avons : 
  - formalisé ce que nous avions vu en fin de première séance en [comparant un programme python et à un programme "scratch"](../cours/02_présentation%20de%20python.pdf)

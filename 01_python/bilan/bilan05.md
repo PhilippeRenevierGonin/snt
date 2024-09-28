@@ -1,4 +1,4 @@
-#bilan de la 4e séance
+#bilan de la 5e séance
 
 Pour la dernière séance sur python, nous avons : 
  - vu une "généralisation du if" avec "elif" qui permet d'enchainer des conditions pour des instructions conditionnelles

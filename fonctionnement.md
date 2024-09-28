@@ -2,7 +2,7 @@
 
 Chaque personne garde la même place d'une séance à l'autre.
 
-Les séances d'1h30 sont découpées par demi-heure : cours / activité (parfois des activités sur 1h). IL y a donc 3 "créneaux" par séance.
+Les séances d'1h25 sont découpées par 2 mi-temps d'environ 45 min : cours / activité. Il y a donc 2 "créneaux" par séance.
 
 Les séquences (python ou thème) durent environ 4 semaines avec ; 
  - un QCM en milieu de thématique (rapide, quelques questions)

@@ -9,8 +9,7 @@ Nous avons :
    - comment définir des conditions avec des expressions booléennes (ou/or , et/and, négation/not) ou des inégalités mathématiques (==, <, <=, >, >=, !=) (transparent 12)
    - et quelques instructions d'entrée (saisir du texte avec input) ou de sortie (print pour afficher dans la console)
  - aperçu quelques notions du cours dont html et css
- - complété un programme 
- - fait un QCM
+ - commencé à compléter un programme 
 
 La compétence visée (partiellement) est : 
   - Écrire et développer des programmes pour répondre à des problèmes

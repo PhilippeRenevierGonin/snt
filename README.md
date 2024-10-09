@@ -17,9 +17,9 @@ Un outil est utilisé pour écrire et exécuter du python, il s'agit de [Thonni]
 
 Le déroulement prévu est : 
  - Pour la première séance 
-   - une présentation générale : faisons connaissance, voyons les règles de vie en classe, voyons les informations de connexion et [comment fonctionnent lee séances](fonctionnement.md)
+   - une présentation générale : faisons connaissance, voyons les règles de vie en classe, voyons les informations de connexion et [comment fonctionnent les séances](fonctionnement.md)
    - [une introduction au cours de SNT](01_python/cours/01_introduction%20générale.pdf)
-   - [le début première activité (du code à trou pour retrouver les coordonnées gps à partir d'une adresse)](01_python/activité01/README.md)
+   - [le début de la première activité (du code à trou pour retrouver les coordonnées gps à partir d'une adresse)](01_python/activité01/README.md)
    - [bilan de la 1re séance](01_python/bilan/bilan01.md)
  - Pour la deuxième séance
    - (éventuellement revenir sur le fonctionnement et les informations de connexion)
@@ -31,11 +31,11 @@ Le déroulement prévu est :
    - [une seconde activité (du code à trou pour poursuivre l'activité 01)](01_python/activité02/README.md)
      - pour cette activité, vous aurez besoin de [ce style CSS](01_python/activité02/style-carte.css)
      - [bilan de la 3e séance](01_python/bilan/bilan04.md)
-   - la 3e partie de la séance sera consacrée à la fin de l'activité et un QCM "court"
  - Pour la quatrième séance
+   - la séance commence par un QCM "court"
    - [une 3e activité pour concevoir un programme](01_python/activité03/README.md)
    - la [présentation de la boucle while](01_python/cours/03_boucle%20while.pdf) puis une [activité 4 de programmation](01_python/activité04/README.md)
-   - la 3e partie de la séance sera consacrée à la fin de l'activité 4 et à la correction du QCM "court" 
+   - si le temps le permet, nous ferons une correction du QCM "court" 
    - [bilan de la 4e séance](01_python/bilan/bilan04.md)
  - Pour la cinquième séance
    - un cours présente [les instructions conditionnelles ("if") avec 3 ou plus alternatives et la notion de fonction](01_python/cours/04_elif_fonction.pdf)

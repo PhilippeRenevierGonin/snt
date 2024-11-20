@@ -9,14 +9,14 @@ Voici un déroulé possible du programme :
 ```
 affecter 20 à nbAllumettes
 boucle (tant que nbAllumettes > 0)
-    afficher 'À vous de jouer, il reste {nbALlumettes} allumettes'
-    demander le nombre d'allumettes prises (1, 2 ou 3) et l'affecter à coupJ
-    calculer nbAllumettes - coupJ et l'affecter à nbALlumettes
-    afficher 'Àprès votre tour, il reste {nbALlumettes} allumettes'
+    afficher 'À vous de jouer, il reste {nbAllumettes} allumettes'
+    demander le nombre d'allumettes prises (1, 2 ou 3) et l'affecter à coupJoueur
+    calculer nbAllumettes - coupJoueur et l'affecter à nbAllumettes
+    afficher 'Àprès votre tour, il reste {nbAllumettes} allumettes'
     si (nbAllumettes > 0)
-        affecter 1 à coupO
-        afficher 'L'ordinateur a choisi de prendre {coupO} allumettes'
-        calculer nbAllumettes - coupO et l'affecter à nbALlumettes
+        affecter 1 à coupOrdi
+        afficher 'L'ordinateur a choisi de prendre {coupOrdi} allumettes'
+        calculer nbAllumettes - coupOrdi et l'affecter à nbALlumettes
         afficher 'Àprès le tour de l'ordinateur, il reste {nbALlumettes} allumettes'
         si (nbAllumettes <= 0)
             afficher "Vous avez perdu !"

@@ -6,7 +6,6 @@ Pour la dernière séance sur python, nous avons :
    - La fonction se définit avec "def" puis son nom puis ses paramètres
    - une fonction peut retourner une valeur, avec "return" (ce qui met fin à la fonction)
  - poursuivi l'implémentation d'un programme 
- - fait un contrôle
 
 La compétence visée (partiellement) est : 
   - Écrire et développer des programmes pour répondre à des problèmes

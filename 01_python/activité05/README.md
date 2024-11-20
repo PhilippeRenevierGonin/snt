@@ -13,14 +13,14 @@ Dans ce script, le mot "allumette" est toujours au pluriel, même s'il y en a 0 
 
 Parmi toutes ces utilisations, lesquelles concernent un nombre (potentiellement) variable d'allumettes ?
 
-### Proposez un mini-algorithme pour détermines s'il faut écrire "allumette" ou "allumettes"
+### Proposez un mini-algorithme pour déterminer s'il faut écrire "allumette" ou "allumettes"
 
 ### Implémentez une fonction "formatage_nbAllumettes(nb)"
 
 Cette fonction prend en paramètre un nombre d'allumettes et elle retourne : 
  - {nb} allumettes si nb >= 2
- - 1 allumette si nb = 1
- - 0 allumette si nb = 0
+ - 1 allumette si nb == 1
+ - 0 allumette si nb == 0
 
 A-t-on besoin d'utiliser "elif" dans ce cas ?
 
@@ -33,8 +33,8 @@ Exécutez votre programme. Est-ce que maintenant "allumette" a la bonne marque d
 
 Maintenant, nous voudrions que l'affichage du nombre d'allumettes changent en fonction du nombre : 
  - {nb} allumettes si nb >= 2, nb étant écrit en "chiffre"
- - "une seule allumette" si nb = 1 ("une" est écrit en toutes lettres)
- - zéro allumette si nb = 0 ("zéro" est écrit en toutes lettres)
+ - "une seule allumette" si nb == 1 ("une" est écrit en toutes lettres)
+ - zéro allumette si nb == 0 ("zéro" est écrit en toutes lettres)
 
 A-t-on besoin d'utiliser "elif" dans ce cas ?
 

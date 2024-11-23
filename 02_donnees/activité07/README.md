@@ -2,7 +2,7 @@
 
 Pour commencer, récupérez [le code de base, lectureCSV.py](lectureCSV.py).
 
-Si vous ne l'avez pas concervé, récupérer [le fichier des naissances de 2021](FD_NAIS_2021.csv).
+Si vous ne l'avez pas conservé, récupérez  [le fichier FD_NAIS_2021.csv des naissances de 2021](FD_NAIS_2021.csv) et placez-le à côté du fichier lectureCSV.py.
 
 En parallèle du code python ouvert dans Thonny, vous pouvez ouvrir le fichier dans excel et consulter la [définition des variables dans le fichier de référence](https://www.insee.fr/fr/statistiques/fichier/6652024/Contenu_etatcivil2021_nais2021.pdf) : 
 
@@ -10,7 +10,7 @@ En parallèle du code python ouvert dans Thonny, vous pouvez ouvrir le fichier d
 
 ## Lecture du code fourni 
 
-le code fourni est assez court : 
+Le code fourni est assez court : 
  - il commence par "import csv". Ceci permet de dire que le programme va utiliser une bibliothèque pour lire les fichiers csv. 
  - il y a ensuite une fonction dont le nom est "recommencerLectureDonnees", nous verrons par la suite son utilité et ce qu'est une fonction en python
  - puis il y a le programme principal (la partie "main"). Celle-ci permet au programme de consulter (= ouvrir) le contenu du fichier FD_NAIS_2021.csv. Puis à la fin, le programme referme le fichier. 
@@ -66,4 +66,4 @@ Le code suivant permet de savoir si "un département" est dans une liste :
         # Isère vaut True
 ``` 
 ### 10. En vous aidant de cela, faites une boucle pour compter les naissances dans la Drôme, dans la région ARA et le nombre de garçons nés en 2021 dans la région ARA. Notez les résultats sur votre feuille.
-### 11. Calculez le pourcentage de garçons nés dans la région ARA en 2021 par rapport au total des naissances dans la région ARA en 2021. Est-ce cohérent avec la question  
+### 11. Calculez le pourcentage de garçons nés dans la région ARA en 2021 par rapport au total des naissances dans la région ARA en 2021. Est-ce cohérent avec la question 8 ?  

@@ -14,3 +14,11 @@ Le déroulement prévu est :
    - un cours présente [les instructions conditionnelles ("if") avec 3 ou plus alternatives et la notion de fonction](cours/04_elif_fonction.pdf)
      - ce qui permet de présenter [une fiche qui résume ce qui a été abordé en python](cours/Memo%20Python%20V1.pdf)
    - [l'activité 5 de programmation permet d'application la notion de fonction](activité05/README.md)
+
+
+Dans un déroulement sans contre-temps, les bilans des séances devraient être :  
+   - [bilan de la 1re séance](bilan/bilan01.md)
+   - [bilan de la 2e séance](bilan/bilan02.md)
+   - [bilan de la 3e séance](bilan/bilan04.md)
+   - [bilan de la 4e séance](bilan/bilan04.md)
+   - [bilan de la 5e séance](bilan/bilan05.md)

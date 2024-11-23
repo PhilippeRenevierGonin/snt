@@ -22,14 +22,7 @@ Lors des prémières séances, nous ferons :
 
 Pour suivre la thématique "programmation en Python", il faut suivre [Le déroulé cours / activités lié à Python](01_python/python.md)
 
-Dans un déroulement sans contre-temps, les bilans des séances devraient être :  
-   - [bilan de la 1re séance](01_python/bilan/bilan01.md)
-   - [bilan de la 2e séance](01_python/bilan/bilan02.md)
-   - [bilan de la 3e séance](01_python/bilan/bilan04.md)
-   - [bilan de la 4e séance](01_python/bilan/bilan04.md)
-   - [bilan de la 5e séance](01_python/bilan/bilan05.md)
-
 
 ## Les données structurées et leur traitement 
 
-Pour suivre la thématique "Les données structurées et leur traitement", il faut suivre [Le déroulé cours / activités sur les donénes](02_donnees/données)
+Pour suivre la thématique "Les données structurées et leur traitement", il faut suivre [Le déroulé cours / activités sur les données](02_donnees/données)

@@ -1,6 +1,6 @@
 # Activité 6 : découverte des données
 
-Pour cette activité, consulter la page [Naissances, décès et mariages en 2021 ](https://www.insee.fr/fr/statistiques/6652024?sommaire=6652160#consulter-sommaire).
+Pour cette activité, consulter la page [**Naissances, décès et mariages en 2021** ](https://www.insee.fr/fr/statistiques/6652024?sommaire=6652160#consulter-sommaire).
 **Sur une feuille que vous rendrez à la fin de l'activité, répondez aux questions suivantes :** 
 
 ### 1. Décrivez ce que contient cette page. 
@@ -19,6 +19,7 @@ Pour cette activité, consulter la page [Naissances, décès et mariages en 2021
 
 |                             Information souhaitée                              | disponibilité dans FD_NAIS_2021.csv | Façon de l'obtenir cette information (lecture, calcul, etc.) ou pourquoi ce n'est pas disponible |
 |:------------------------------------------------------------------------------:|:-----------------------------------:|:------------------------------------------------------------------------------------------------:|
+|                         le nom des enfants nés en 2021                         |                                     |                                                                                                  |
 |                     nombre de naissances en France en 2021                     |                                     |                                                                                                  |
 |           âge moyen des mères lors de la naissance d'enfants en 2021           |                                     |                                                                                                  |
 |               âge moyen des mères lors de la première naissance                |                                     |                                                                                                  | 

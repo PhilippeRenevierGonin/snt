@@ -100,4 +100,4 @@ Sélectionnez les lignes 742075 et 742076 (en cliquant sur la gauche sur les num
 
 ### 12. Est-ce que pour les départements (ou territoires) d'outres mers (971-974 et 976) pourrait sur le même graphique Excel ? Quel serait le problème et la solution ?   
 
-Indication : vous pouvez consulter la page https://www.insee.fr/fr/statistiques/7739582?sommaire=7728826#consulter
+Indication : vous pouvez consulter la page [Téléchargement du fichier d'ensemble des populations légales en 2021 de l'INSEE](https://www.insee.fr/fr/statistiques/7739582?sommaire=7728826#consulter)

@@ -6,4 +6,5 @@ Voici le déroulement de la thématique sur les données structurées et leur tr
    - [une partie du cours présente des notions liées aux données](cours/05_données.pdf)
    - [une partie du cours présente des notions de python sur les listes et les fonctions](cours/06_python%20pour%20les%20données.pdf)
  - [l'activité 7](activité07/README.md) porte sur la manipulation du fichier csv en python
+ - [l'activité 8](activité08/README.md) porte sur la manipulation du fichier csv avec Excel
 

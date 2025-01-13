@@ -21,15 +21,15 @@ Où taper les formules : en princpe n'importe où cela ne gêne pas, par exemple
 Comme le fichier est grand, pour conserver la vue de la première ligne, allez dans "Affichage > Figer les volets > Figer la ligne supérieure". Puis descendez "en bas" du fichier (ligne 742053).
 En principe, vous voyez encore les titres de la ligne 1. 
 
-sur la ligne 742054, colonne C, tapez :  "=MOYENNE(C2:C742053)" puis validez.
+`sur la ligne 742054, colonne C, tapez :  "=MOYENNE(C2:C742053)" puis validez.`
 
 ### 2.  Qu'est-ce qui est affiché dans excel, dans la partie tableau ? Qu'est-ce qui est affiché dans la partie "édition de la case" ? Le résultat est-il différent de ce que vous aviez trouvé avec Python ?
 
 Une case dans Excel est aussi appelée aussi cellule. Pour les désigner, il faut utiliser ses "coordonnées" : la colonne suivie de la ligne. 
 Par exemple C742054 désigne la cellule de la colonne C qui est ligne 742054. 
 
-Cliquez sur la cellule C742054 puis déplacez la souris en bas à droite de cette case : le curseur doit changer de <img src="curseurCase.png" style="width:1rem;height:1rem"> à <img src="curseurRépliquer.png" style="width:1rem;height:1rem">. Quand c'est le cas, cliquez en laissant le bouton de la souris enfoncé, ensuite déplacer la souris sur la droite. Quand la cellule d'à côté est surlignée (en vert), relachez le bouton de la souris.
-
+`Cliquez sur la cellule C742054 puis déplacez la souris en bas à droite de cette case : le curseur doit changer de <img src="curseurCase.png" style="width:1rem;height:1rem"> à <img src="curseurRépliquer.png" style="width:1rem;height:1rem">. Quand c'est le cas, cliquez en laissant le bouton de la souris enfoncé, ensuite déplacer la souris sur la droite. Quand la cellule d'à côté est surlignée (en vert), relachez le bouton de la souris.
+`
 ### 3. Que contient a cellule D742054 (dites ce qui est affiché et ce qui est dans la partie "édition de case") ? 
 
 Il y a d'autres formules que "MOYENNE", il y a par exemple "MIN et MAX" qui fonctionnent comme "MOYENNE" en prenant une "plage" de valeurs, c'est-à-dire un ensemble de cellules.
@@ -51,8 +51,8 @@ Nous ne ferons qu'avec une colonne entière. Ici, prendre en compte tous les âg
 
 Certaines fonctions d'Excel peuvent prendre plusieurs paramètres. C'est le cas de NB.SI quyi est faite pour compter les cellules pour lesquelles une condition est vraie. Cette condition est appelée critère.
 
-En bas de la colonne L, tapez : "=NB.SI(L2:L742053;"26")".
-
+`En bas de la colonne L, tapez : "=NB.SI(L2:L742053;"26")".
+`
 Le premier paramètre est plage de valeur (ici la colonne L) et le 2e paramètre est le critère qui doit être vérifié. Ici "26" est comme écrire "=26", c'est-à-dire qu'Excel ne va compter que les cellules qui sont égales à "26".  
 
 ### 7. Retrouvez-vous le même résultat qu'avec Python ? 
@@ -67,7 +67,7 @@ La fonction NB.SI.ENS permet de faire un décompte avec plusieurs critères :
  - une première paire plage_critères1 / critère1 qui fonctionne comme avec NB.SI
  - puis il est possible d'ajouter d'autres paires (jusqu'à 127) 
  - toutes les "plages_critères" doivent avoir le même nombre de lignes (et de colonnes)
- - pour que le nombre augmente, il faut que tous les crièteres soient vérifiée
+ - pour que le nombre augmente, il faut que tous les critères soient vérifiée
 
 ### 9. Déterminez avec Excel le nombre de garçons nés en 2021 dans la région ARA. Notez comment vous avez fait.  
 
@@ -85,17 +85,17 @@ Pour éviter une modification de la plage de valeurs, il est possible d'ajouter 
  - $l2 : la cellule sera toujours de la colonne L mais la ligne peut changer
  - L$2 : la cellule pourra "changer" de la colonne mais elle sera toujours sur la 2e ligne
 
-Un peu plus bas dans le fichier par exemple ligne 742075, mettez "département" dans la colonne A puis 1 dans la colonne B puis dans la cellule d'en-dessous, mettez "nb naissances 2021" dans la colonne A et dans la colonne B la formule qui donne le nombre de naissances dans le département de l'ain (01 ou 1), maius : 
+`Un peu plus bas dans le fichier par exemple ligne 742075, mettez "département" dans la colonne A puis 1 dans la colonne B puis dans la cellule d'en-dessous, mettez "nb naissances 2021" dans la colonne A et dans la colonne B la formule qui donne le nombre de naissances dans le département de l'ain (01 ou 1), mais :` 
  - en utilisant NB.SI
  - en fixant la plage pour les départements avec les "$" 
  - le critère pour compter doit être la case au-dessus.
 
-Sélectez les deux cases avec la souris et répliquez (quand vous avez le curseur <img src="curseurRépliquer.png" style="width:1rem;height:1rem">) ces deux cases sur plusieurs colonnes (par exemple jusqu'à 32 ou un peu plus, le nombre importe peu tant qu'on ne dépasse pas 95). 
-
+`Sélectez les deux cases avec la souris et répliquez (quand vous avez le curseur <img src="curseurRépliquer.png" style="width:1rem;height:1rem">) ces deux cases sur plusieurs colonnes (par exemple jusqu'à 32 ou un peu plus, le nombre importe peu tant qu'on ne dépasse pas 95). 
+`
 ### 10. Qu'obtenez-vous ? Que constatez-vous pour le "20" ? pourquoi ? Réglez le problème pour cette cellule uniquement sachant que vous pouvez faire un "+" entre 2 NB.SI. Notez comment vous avez fait.
 
-Sélectionnez les lignes 742075 et 742076 (en cliquant sur la gauche sur les numéros des lignes). Ensuite, allez dans "Insertion > nuage de points > courbes "
-
+`Sélectionnez les lignes 742075 et 742076 (en cliquant sur la gauche sur les numéros des lignes). Ensuite, allez dans "Insertion > nuage de points > courbes "
+`
 ### 11. Visuellement, dans quel département parmi les premiers départements, y a-t-il le plus de naissances ?  Pouvons nous en déduire que c'est dans ce département que la natalité est la plus forte ? Si non, quelle(s) information(s) manqueraient-ils ?
 
 ### 12. Est-ce que pour les départements (ou territoires) d'outres mers (971-974 et 976) pourrait sur le même graphique Excel ? Quel serait le problème et la solution ?   

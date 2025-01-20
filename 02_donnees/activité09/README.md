@@ -19,8 +19,8 @@ Discutons du déroulement de l'activité et décidons ensemble de la validité (
 
 ## Phase de saisie
 Par deux, il faut saisir dans 2 fichiers Excel différents, un pour traiter les morceaux préférés et un pour traiter les appréciations / habitudes
- - Pour le groupe du mardi 13h50 : [appreciation-habitude-m1350.xlsx](appreciation-habitude) et [top-m1350.xslx](les tops 3)
- - Pour le groupe du mardi 15h15 : [appreciation-habitude-m1550.xlsx](appreciation-habitude) et [top-m1550.xslx](les tops 3)
+ - Pour le groupe du mardi 13h50 : [appreciation-habitude](appreciation-habitude-m1350.xlsx) et [les tops 3](top-m1350.xslx)
+ - Pour le groupe du mardi 15h15 : [appreciation-habitude](appreciation-habitude-m1550.xlsx) et [les tops 3](top-m1550.xslx)
 
 Pour saisir en parallèle, nous saisirons par 2 documents puis nous ferons circuler les documents. 
 

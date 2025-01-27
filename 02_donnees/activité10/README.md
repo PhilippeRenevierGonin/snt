@@ -6,7 +6,7 @@ Pour cette activité, nous allons nous appuyer sur les pages 22 et 23 du manuel 
 
 ## 2. Où sont stockées les données qui sont synchronisées à partir d’un smartphone ? Quels sont les avantages et les risques de la synchronisation ? (question du manuel)
 
-## 3. Pourquoi le cloud est-il un gros consommateur d’énergie ? Comment réagissent les grandes entreprises du secteur numérique ? (question du livre)
+## 3. Pourquoi le cloud est-il un gros consommateur d’énergie ? Comment réagissent les grandes entreprises du secteur numérique ? (question du manuel)
 
 ## 4. Dans les pages du manuel, et via ces 3 premières questions, identifez les 3 facettes du cloud évoquées.
 

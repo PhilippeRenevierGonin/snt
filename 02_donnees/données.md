@@ -9,4 +9,5 @@ Voici le déroulement de la thématique sur les données structurées et leur tr
  - [l'activité 8](activité08/README.md) porte sur la manipulation du fichier csv avec Excel
  - [l'activité 9](activité09/README.md) porte sur la collecte et le traitement des données avec Excel
  - [l'activité 10](activité10/README.md) porte sur "le cloud"
+ - [l'activité 11](activité11/README.md) porte sur "les bases de données (BD)"
 

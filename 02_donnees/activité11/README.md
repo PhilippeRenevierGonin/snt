@@ -24,7 +24,6 @@ où :
  - ```'ce que l on veut obtenir'``` peut être : * (tous les descripteurs), une liste de descripteur et/ou une fonction (AVG pour moyenne, COUNT, SUM, MIN, MAX)
  - ```'la table des donnés sources'``` est le nom de la table "explorée"
  - ```'un ou plusieurs cirtères de sélection'``` c'est comme en python et les "if", il s'agit ici de préciser une condition (ou plusieurs reliées avec des AND / OR / NOT). Une condition est du style "descripteur = valeur", avec =, <, <=, >, >=, <> (pour différent), etc.
- - ```'un ou plusieurs cirtères de sélection'``` c'est comme en python et les "if", il s'agit ici de préciser une condition (ou plusieurs reliées avec des AND / OR / NOT). Une condition est du style "descripteur = valeur", avec =, <, <=, >, >=, <> (pour différent), etc.
 
 
 ## 5. Écrivez et proposez des requêtes pour : 1) comptez les naissances en 2021 et 2) avoir l'âge moyenne des mères

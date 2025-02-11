@@ -1,4 +1,4 @@
-# Activité 10 : Base de données (opération sur les données)
+# Activité 11 : Base de données (opération sur les données)
 
 Pour cette activité, nous allons nous appuyer sur les pages 20 et 21 du manuel "SNT" édition Delagrave. Notez sur une feuille les réponses aux questions suivantes : 
 

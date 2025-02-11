@@ -25,4 +25,14 @@ Pour suivre la thématique "programmation en Python", il faut suivre [Le déroul
 
 ## Les données structurées et leur traitement 
 
-Pour suivre la thématique "Les données structurées et leur traitement", il faut suivre [Le déroulé cours / activités sur les données](02_donnees/données)
+Pour suivre la thématique "Les données structurées et leur traitement", il faut suivre [Le déroulé cours / activités sur les données](02_donnees/données.md)
+
+
+## internet
+
+Pour suivre la thématique "internet", il faut suivre [Le déroulé cours / activités sur internet](03_internet/internet.md)
+
+
+## web
+
+Les informations sur le projet autour d'un site web sont sur [la page "projet"](04_web/projet.md)

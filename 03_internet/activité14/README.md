@@ -4,7 +4,10 @@ Sur une feuille, prenez note des exercices. L'activité sera peut-être ramassé
 
 ## Exercice 1 : Client - Serveur
 
-[voici une adresse pour une expérience](http://172.22.000.000/snt/). 
+Selon la salle : 
+ - [pour la H36 voici une adresse pour une expérience](http://172.22.241.123/snt/). 
+ - [pour la H1 voici une adresse pour une expérience](http://172.22.000.000/snt/). 
+ 
 Quand l'activité sera lancée, vous aurez 4 questions. Chaque minute, la question changera. Pour vous, il faudra rafraichir la page (avec F5 par exemple) pour voir la page évoluée. 
 
 En dehors de cet "exercice de mentaliste" relativement connu, répondez aux questions suivantes : 
@@ -18,4 +21,4 @@ En dehors de cet "exercice de mentaliste" relativement connu, répondez aux ques
 
 Il s'agit de l'exercice 7 page 51 du manuel "SNT, édition Delagrave". Dans un premier temps, ne tenez pas compte du tableau et répondez aux 2 questions. 
 
-La troisième colonne du tableau est faux. Pourquoi ? Proposez une correction. Est-ce que cela répond à l'une des deux questions de l'exercise ? 
+La troisième colonne du tableau est faux. Pourquoi ? Proposez une correction. Est-ce que cela répond à l'une des deux questions de l'exercice ? 

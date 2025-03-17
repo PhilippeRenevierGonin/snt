@@ -1,12 +1,12 @@
-# Activité 12 : Client / Serveur vs Pair à Pair
+# Activité 14 : Client / Serveur vs Pair à Pair
 
 Sur une feuille, prenez note des exercices. L'activité sera peut-être ramassée. 
 
 ## Exercice 1 : Client - Serveur
 
 Selon la salle : 
- - [pour la H36 voici une adresse pour une expérience](http://172.22.241.123/snt/). 
- - [pour la H1 voici une adresse pour une expérience](http://172.22.000.000/snt/). 
+ - [pour la H36 (2de 1) voici une adresse pour une expérience](http://172.22.241.123/snt/). 
+ - [pour la H31 (2de 7) voici une adresse pour une expérience](http://172.22.000.000/snt/). 
  
 Quand l'activité sera lancée, vous aurez 4 questions. Chaque minute, la question changera. Pour vous, il faudra rafraichir la page (avec F5 par exemple) pour voir la page évoluée. 
 

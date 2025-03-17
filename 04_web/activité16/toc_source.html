@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+	<meta charset="utf-8" />
+	<title>table des matières</title>
+</head>
+
+<body>
+
+<header>
+	<nav>
+
+	</nav>
+	<h1> introduction &agrave; html</h1>
+</header>
+
+<section>
+	<header><h2>d&eacute;finition</h2></header>
+	<p>
+		<abbr>HTML</abbr> est d&eacute;fini par le consortium <a href="http://www.w3c.org"><abbr>W3C</abbr></a>.
+	</p>
+
+	<p><abbr>HTML</abbr> est une abbréviation pour <dfn>Hyper Text Markup Language</dfn>. <abbr>HTML</abbr> est un d&eacute;riv&eacute; de <abbr>SGML</abbr> (<dfn>Standard Generalized Markup Language</dfn>) qui est un 
+	m&eacute;talangage qui permet de d&eacute;finir des langages bas&eacute;s sur des balises. En fait, d&egrave;s la version 2 de HTML, tout a &eacute;t&eacute; fait pour que HTML
+	soit "compatible" avec SGML. Pour information, <abbr>XML</abbr> est une version simplifi&eacute;e de SGML.
+	</p>
+</section>
+
+
+<section>
+	<header><h2>caract&egrave;res sp&eacute;ciaux</h2></header>
+	
+	<p>Les caract&egrave;res sp&eacute;ciaux d'une URL doivent &ecirc;tre cod&eacute;s selon leur code ascii (en hexa), notamment un espace par %20, % par %25, etc.<br />
+	Une URL est une URI (Uniform Resource Identifier) qui, en plus d'identifier une ressource (ce que fait une URI), pr&eacute;cise le moyen pour la
+	manipuler. 
+	</p>
+	
+	<p>Ainsi, un document (html) est disponible sur le r&eacute;seau via une URL. Il est demand&eacute; et envoy&eacute; &agrave; une application cliente gr&acirc;ce au protocole
+	http. Il ne reste plus qu'&agrave; l'application cliente (le navigateur) &agrave; interpr&eacute;ter le document. Ceci se fait par recherche de caract&egrave;res
+	 particuliers : &lt; qui ouvre un "tag", les &amp; qui commencent les caract&egrave;res sp&eacute;ciaux : <code>&amp;#code ascii;</code>. Parmis les caract&egrave;res sp&eacute;ciaux,
+	il y a : 
+	</p>
+	
+	<ul>
+		<li><code>&amp;amp;</code> / &amp; ;</li>
+		<li><code>&amp;lt;</code> / &lt; ;</li>
+		<li><code>&amp;gt;</code> / &gt; ;</li>
+		<li><code>&amp;eacute;</code> / &eacute;</li>
+		<li>note : les caract&egrave;res s'obtiennent par la &amp;+lettre+accent; les accents &eacute;tant <strong>acute, grave, circ, cedil, tilde</strong> et aussi les ligatures avec lig, e.g. <samp>&amp;aelig;</samp> / &aelig;).</li>
+	</ul>
+	
+	<p>
+	La <a href="http://www.w3.org/TR/html5/syntax.html#named-character-references">liste des caract&egrave;res sp&eacute;ciaux (nommés)</a> est disponible sur le site du W3C.
+	</p>
+		
+
+	<p>Voici un exemple de code html, qui utilise les caractères spéciaux : </p>
+
+	<pre><samp>
+&lt;p&gt;
+	&lt;a href="http://validator.w3.org/check?uri=referer"&gt;
+		lien vers le validateur validator.w3.org
+	&lt;/a&gt;
+&lt;/p&gt;
+	</samp></pre>
+
+</section>
+
+
+<section>
+	<header><h2>liens et images</h2></header>
+
+		<article>
+		<header><h3>les liens</h3></header>
+		
+		<p>Un lien s'obtient par l'utilisation d'une balise <code>&lt;a&gt;</code> avec un texte descriptif du lien entre la balise ouvrante et la balise 
+		fermante et une cible (ou destination) grâce à l'attribut <code>href</code> de la balise. </p>
+		<pre><samp>
+			le code suivant 
+			&lt;a href="http://www.cevennes-couleurs.com/"&gt;magasin de vente de matérieux pour des travaux (peinture, sol, étanchéïté, etc.)&lt;/a&gt;
+			donne le résultat (seul le texte est visible) : 
+			<a href="http://www.cevennes-couleurs.com/">magasin de vente de matérieux pour des travaux (peinture, sol, étanchéïté, etc.)</a>
+		</samp></pre>
+	</article>
+	
+	
+	<article>
+		<header><h3>les images</h3></header>
+		<p>Une image s'insère par l'utilisation d'une balise (sans texte) <code>&lt;img&gt;</code> grâce à 2 attributs : <code>src</code> qui
+		désigne l'emplacement de l'image (là où est le fichier source) et <code>alt</code> qui fournit une description de l'image.</p>
+		<pre><samp>
+			le code suivant 
+			&lt;img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_32.png" alt="logo du w3c format pgn 32x32" /&gt;
+			donne le résultat (seule l'image est visible) : 
+			<img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_32.png" alt="logo du w3c format pgn 32x32" />
+		</samp></pre>
+		<p>Il est possible de spécifier la dimension de l'image par l'attribut <code>width</code> ou <code>height</code> (si un seul est 
+		utilisé, les proportions sont respectées). Plutôt que d'utiliser ces attributs, l'utilisation du CSS est conseillé.</p>
+		<p>&Agrave; titre de comparaison, voici la même image avec une largeur fixée à 200, avec comme source une soit l'image au format png
+		soit l'image au format svg : <br/>
+		<img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_32.png" alt="logo du w3c format pgn 32x32 redimensionné à 200x200" width="200" />
+		<img src="http://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="logo du w3c format svg redimensionné à 200 de largeur" width="200" />
+		</p>
+	</article>
+
+
+	<article>
+		<header><h3>des liens sur des images</h3></header>
+		
+		<p>Il est possible de placer une image dans un lien, l'image devient alors cliquable. L'example ci-dessous est un lien vers
+		le validateur du W3C pour tester cette page : <br/>
+		<a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="logo du w3c format svg redimensionné à 50 de largeur" width="50" /></a><br/>
+		dont le code est : 		
+		<code>&lt;a href="http://validator.w3.org/check?uri=referer"&gt;&lt;img src="http://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="logo du w3c format svg redimensionné à 50 de largeur" width="50" /&gt;&lt;/a&gt;</code>
+		</p>
+	</article>
+
+	<article>
+		<header><h3>des liens avec des caractères spéciaux</h3></header>
+		<p>Pour les liens contenant des caractéres spéciaux html comme <samp>&amp;</samp> ou des caractères spéciaux pour une url comme un espace encodé
+		<code>%20</code>, il est conseillé de les écrire avec l'encodage.</p>
+		
+		<pre><samp>
+			le code suivant 
+			&lt;a href="accent&amp;amp;.html"&gt;lien vers accent&amp;amp;.html&lt;/a&gt;
+			donne le résultat : 
+			<a href="accent&amp;.html">lien vers accent&amp;.html</a>
+			
+			et le code suivant 
+			&lt;a href="emploi%20du%20temps.html"&gt;lien vers emploi du temps.html&lt;/a&gt;
+			donne le résultat : 
+			<a href="emploi%20du%20temps.html">lien vers emploi du temps.html</a>
+		</samp></pre>		
+	</article>
+</section>
+
+
+<footer>fin de l'exercice</footer>
+
+</body>
+
+</html>

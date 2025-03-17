@@ -17,9 +17,11 @@ Vous devrez citer vos sources, en faisant attention aux droits sur les images, e
 
 La taille de ce contenu doit faire 2000 caractères minimum (espace compris), 3000 maximum. 
 
-Il n'y a pas de mise en forme attendu à ce stade, cela sera fait en html. 
+Il n'y a pas de mise en forme attendue à ce stade, cela sera fait en html/css. 
 
-Il faut une page par élève, mais vous pourrez vous mettre en groupe pour faire les pages (1 élève seul·e fait une page, deux élèves en font deux, trois en font trois, etc.)
+Il faut une page par élève, mais vous pourrez vous mettre en groupe pour faire les pages (1 élève seul·e fait une page, deux élèves en font deux, trois en font trois, etc.).
+
+Les modalités de rendu seront préciser en classe. 
 
 ## 2. Réalisation des pages web
 à venir

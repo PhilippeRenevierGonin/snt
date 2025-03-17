@@ -35,4 +35,7 @@ Pour suivre la thématique "internet", il faut suivre [Le déroulé cours / acti
 
 ## web
 
+Pour suivre la thématique "internet", il faut suivre [Le déroulé cours / activités sur le web](04_web/web.md)
+
+
 Les informations sur le projet autour d'un site web sont sur [la page "projet"](04_web/projet.md)

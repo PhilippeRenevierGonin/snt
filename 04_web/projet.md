@@ -21,10 +21,11 @@ Il n'y a pas de mise en forme attendue à ce stade, cela sera fait en html/css.
 
 Il faut une page par élève, mais vous pourrez vous mettre en groupe pour faire les pages (1 élève seul·e fait une page, deux élèves en font deux, trois en font trois, etc.).
 
-Les modalités de rendu seront préciser en classe. 
+Les modalités de rendu seront préciser en classe (via "Echange")
 
 ## 2. Réalisation des pages web
-à venir
+à faire en séance à partir du contenu préparé. 
+
 
 ## 3. Organisation du site
 à venir

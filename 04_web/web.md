@@ -11,6 +11,10 @@
  - le cours est dans [le pdf 09-css pour l'introduction](cours/09-css.pdf)
  - le cours est dans [le pdf 10-css-layout pour la mise en page](cours/10-css-layout.pdf)
 
+## mémo
+
+Un mémo est disponible dans [un document pour html/css](cours/memo%20html%20css.pdf)
+
 ## projet de classe
 
 [le projet est décrit dans la page "projet"](projet.md)

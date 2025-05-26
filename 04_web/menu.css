@@ -1,0 +1,47 @@
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 10rem;
+    border-right: gray thin solid;
+    padding: 1rem 0.5rem;
+    z-index:10;
+}
+
+nav * {
+        font-family: 'Times New Roman', Times, serif;
+        margin: 0;
+}
+
+nav div {
+    height : 1.2rem;
+    font-size: 1rem;
+    overflow: hidden;
+    border: black thin solid;
+}
+
+nav div:hover,  nav div:hover *{
+    background-color: rgba(186, 249, 60);
+    overflow: visible;
+}
+
+nav div ul {
+    position: relative;
+    margin: 0;
+    top: -1.2rem;
+    left: 9.8rem;
+    z-index: 10;
+    width: max-content;
+
+}
+
+nav div ul li:hover, nav div ul li:hover * {
+    background-color: yellow;
+}
+
+
+body {
+    margin-left: 11rem;
+    border-left: gray thin solid;
+    padding-left: 0.5rem;
+}

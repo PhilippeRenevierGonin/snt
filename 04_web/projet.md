@@ -27,8 +27,34 @@ Les modalités de rendu seront préciser en classe (via "Echange")
 à faire en séance à partir du contenu préparé. 
 
 
-## 3. Organisation du site
-à venir
+## 3. Organisation du site et 3. Navigation
 
-## 3. Navigation
-à venir
+Réfléchissez au regroupement de pages en différentes catégories. Modifiez le fichier "plan.html" contenant les liens vers toutes les pages pour refléter vos catégories. Pour chaque catégorie, il doit y avoir une div selon le modèle : 
+```html
+<nav>
+        <div><span>titre de la catégorie</span>
+            <ul>
+                <li><a href="xxx">page de la catégorie</a></li>
+                <li><a href="xxx">page de la catégorie</a></li>
+                <!-- ... suite des liens pour cette catégorie -->
+            </ul>
+        </div>
+        <div><span>titre d'uen autre catégorie</span>
+            <ul>
+                <li><a href="xxx">page de cette catégorie</a></li>
+                <li><a href="xxx">page de cette catégorie</a></li>
+                <!-- ... suite des liens pour cette catégorie -->
+            </ul>
+        </div>
+        <!-- ... suite des catégories -->
+    </nav>
+```
+
+Pour la navigation entre page, optez pour un des solutions suivantes : 
+ - insérez ce plan dans toutes les pages
+ - insérez un lien "page précédente" et un lien "page suivante" dans chaque page
+ - ou les deux
+
+Après avoir inséré le plan dans une des pages, essayez [le fichier css](menu.css). 
+
+Réfléchissez sur des moyens de mettre en valeur la page "actuelle" ?
